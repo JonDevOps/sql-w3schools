@@ -27,5 +27,21 @@ A database often contains more than one table. Each of which is identifiable by 
 
 SQL keywords are not case sensetive. So SELECT is the same as select.
 
+Some database systems require a semicolon at the end of each statement.
 
-    
+
+
+Some of The Most Important SQL Commans:
+SELECT - extracts data from a database
+UPDATE -updates data from a database
+DELETE - deletes data from a database
+INSERT INTO - inserts new data into a database
+CREATE DATABASE - create a new database
+ALTER DATABASE - modifies a database
+CREATE TABLE - creates a new table
+ALTER TABLE - modifies a table 
+DROP TABLE - deletes a table
+CREATE INDEX - creates an index (search key)
+DROP INDEX - deletes an index
+
+
